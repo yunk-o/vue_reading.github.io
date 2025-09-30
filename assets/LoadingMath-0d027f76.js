@@ -1,0 +1,1 @@
+import{_ as t}from"./loading-69192a91.js";import{_ as s}from"./plugin-vue_export-helper-c27b6911.js";import{o as e,b as _,l as o}from"./@vue-b868262b.js";const c={},r={class:"layer ly__loading"},a=o("img",{src:t,alt:""},null,-1),n=o("p",null,"채점 중입니다...",-1),i=[a,n];function l(d,m){return e(),_("div",r,i)}const u=s(c,[["render",l]]);export{u as default};

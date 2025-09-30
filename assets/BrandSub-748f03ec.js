@@ -1,0 +1,1 @@
+import{_ as o,B as s}from"./BrandFooter-2f879f54.js";import{d as r,o as t,b as n,m as e,z as _}from"./@vue-b868262b.js";const c={class:"wrap sub_page"},l=r({__name:"BrandSub",setup(m){return(a,p)=>(t(),n("div",c,[e(o),_(a.$slots,"default"),e(s)]))}});export{l as _};

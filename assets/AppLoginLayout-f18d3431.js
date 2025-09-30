@@ -1,0 +1,1 @@
+import{d as o,o as s,b as a,l as n,z as i}from"./@vue-b868262b.js";const r={id:"wrap"},c={class:"container--sm"},p=o({__name:"AppLoginLayout",setup(d){var e;return(e=document.querySelector("meta[name=viewport]"))==null||e.setAttribute("content","width=device-width,initial-scale=1"),(t,_)=>(s(),a("div",r,[n("div",c,[i(t.$slots,"default")])]))}});export{p as _};

@@ -1,0 +1,1 @@
+import{_ as o}from"./AppResult-578cee00.js";import{d as e,o as t,e as r}from"./@vue-b868262b.js";import"./AppHeader-9d7af793.js";import"./ico_logo-9f33987c.js";import"./utils-d142bed1.js";const f=e({__name:"ResultTotal",setup(a){return(m,s)=>(t(),r(o,{"theme-show":2}))}});export{f as default};
